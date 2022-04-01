@@ -1,0 +1,4 @@
+﻿  main.cpp
+F:\vscpp\OILBOSTERR\OILBOSTERR\graph.h(338,20): warning C4018: “<”: 有符号/无符号不匹配
+F:\vscpp\OILBOSTERR\OILBOSTERR\graph.h(361,20): warning C4018: “<”: 有符号/无符号不匹配
+  OILBOSTERR.vcxproj -> F:\vscpp\OILBOSTERR\Debug\OILBOSTERR.exe
