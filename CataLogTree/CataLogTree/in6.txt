@@ -1,0 +1,71 @@
+mkfile wcp
+dir
+cd
+cd
+mkfile es
+cd ..
+cd
+mkfile pa
+cd
+mkdir jrsqqqrroukep
+dir
+mkdir vcyjyrvilppdbfzz
+cd jrsqqqrroukep
+dir
+mkdir wjnnoumahqdj
+mkfile oabl
+dir
+cd ..
+cd /jrsqqqrroukep
+mkdir jelkcnwalfdso
+cd /jrsqqqrroukep/jelkcnwalfdso
+dir
+cd
+mkdir onnrnlfiokyicxcnp
+dir
+mkfile pjflnemrev
+mkfile xsfiy
+mkfile mz
+cd ..
+cd ..
+cd
+cd ..
+dir
+cd
+cd
+mkdir ahvuuyzfk
+cd ..
+cd
+mkfile dwjqqeezrg
+cd
+mkdir uniksuqmxujwjmnnob
+mkdir x
+cd ahvuuyzfk
+cd ..
+mkdir fvyxhmnhpgqy
+delete dwjqqeezrg
+cd ..
+cd
+cd fvyxhmnhpgqy
+dir
+mkfile ovmzblvmbd
+mkfile zdptjkwnlyo
+cd ..
+cd jrsqqqrroukep
+dir
+delete oabl
+dir
+mkfile cbnzbe
+mkfile skgg
+mkfile edsvsenzltzwb
+mkfile ox
+dir
+mkfile t
+cd ..
+cd ..
+cd x
+cd ..
+cd /fvyxhmnhpgqy
+dir
+save ijtbaemt.tmp
+quit
