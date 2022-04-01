@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\大二下\DS课设\skiplist\SKIPLIST\SKIPLIST.cpp(361,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\大二下\DS课设\skiplist\SKIPLIST\SKIPLIST.cpp(357): message : 在编译 类 模板 成员函数“void skipList<int,int>::ideal_initial(int *,int)”时
+D:\大二下\DS课设\skiplist\SKIPLIST\main.cpp(92): message : 查看对正在编译的函数 模板 实例化“void skipList<int,int>::ideal_initial(int *,int)”的引用
+D:\大二下\DS课设\skiplist\SKIPLIST\main.cpp(80): message : 查看对正在编译的 类 模板 实例化“skipList<int,int>”的引用
+  SKIPLIST.vcxproj -> D:\大二下\DS课设\skiplist\Debug\SKIPLIST.exe
