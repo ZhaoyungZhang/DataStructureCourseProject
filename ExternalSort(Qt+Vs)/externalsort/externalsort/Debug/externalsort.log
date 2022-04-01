@@ -1,0 +1,16 @@
+﻿  main.cpp
+F:\vscpp\externalsort\externalsort\minlosertree.cpp(225,10): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+F:\vscpp\externalsort\externalsort\minlosertree.cpp(205): message : 在编译 类 模板 成员函数“void minLoserTree<Player>::make_run(std::fstream &)”时
+F:\vscpp\externalsort\externalsort\externalSorter.h(14): message : 查看对正在编译的函数 模板 实例化“void minLoserTree<Player>::make_run(std::fstream &)”的引用
+F:\vscpp\externalsort\externalsort\externalSorter.h(14): message : 查看对正在编译的 类 模板 实例化“minLoserTree<Player>”的引用
+F:\vscpp\externalsort\externalsort\minlosertree.cpp(228,12): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+F:\vscpp\externalsort\externalsort\minlosertree.cpp(270,12): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+F:\vscpp\externalsort\externalsort\minlosertree.cpp(438,11): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+F:\vscpp\externalsort\externalsort\minlosertree.cpp(286): message : 在编译 类 模板 成员函数“void minLoserTree<long>::merge_K(int,int,int)”时
+F:\vscpp\externalsort\externalsort\externalSorter.h(25): message : 查看对正在编译的函数 模板 实例化“void minLoserTree<long>::merge_K(int,int,int)”的引用
+F:\vscpp\externalsort\externalsort\externalSorter.h(22): message : 查看对正在编译的 类 模板 实例化“minLoserTree<long>”的引用
+F:\vscpp\externalsort\externalsort\minlosertree.cpp(441,13): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+F:\vscpp\externalsort\externalsort\minlosertree.cpp(495,13): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  minlosertree.cpp
+  正在生成代码...
+  externalsort.vcxproj -> F:\vscpp\externalsort\Debug\externalsort.exe
